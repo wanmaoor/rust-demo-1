@@ -1,5 +1,5 @@
 // import module
-mod vectors;
+mod conditional;
 fn main() {
-    vectors::run();
+    conditional::run();
 }
