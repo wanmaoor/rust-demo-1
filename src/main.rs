@@ -1,5 +1,5 @@
 // import module
-mod conditional;
+mod loops;
 fn main() {
-    conditional::run();
+    loops::run();
 }
