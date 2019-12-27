@@ -1,5 +1,5 @@
 // import module
-mod references;
+mod structs;
 fn main() {
-    references::run();
+    structs::run();
 }
