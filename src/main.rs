@@ -1,5 +1,5 @@
 // import module
-mod enums;
+mod cli;
 fn main() {
-    enums::run();
+    cli::run();
 }
